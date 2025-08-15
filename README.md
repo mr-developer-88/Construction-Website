@@ -24,9 +24,3 @@ Build a modern, responsive website for a construction business—showcasing proj
 
 ---
 
-##  Setup & Installation
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-# No dependencies required—open index.html directly or use:
-npx serve
